@@ -1,4 +1,4 @@
-package com.techprimers.springbatchexample1.controller;
+package com.abhinandan.springbatchexample1.controller;
 
 import java.util.HashMap;
 import java.util.Map;

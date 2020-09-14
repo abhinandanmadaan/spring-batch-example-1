@@ -1,8 +1,8 @@
- package com.techprimers.springbatchexample1.batch;
+ package com.abhinandan.springbatchexample1.batch;
 
 import org.springframework.batch.item.ItemProcessor;
 
-import com.techprimers.springbatchexample1.model.User;
+import com.abhinandan.springbatchexample1.model.User;
 
 public class Processor2 implements ItemProcessor<User,User>{
 

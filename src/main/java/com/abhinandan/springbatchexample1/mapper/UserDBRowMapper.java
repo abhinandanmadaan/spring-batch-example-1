@@ -1,11 +1,11 @@
-package mapper;
+package com.abhinandan.springbatchexample1.mapper;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
 import org.springframework.jdbc.core.RowMapper;
 
-import com.techprimers.springbatchexample1.model.User;
+import com.abhinandan.springbatchexample1.model.User;
 
 //import com.javacodingskills.spring.batch.demo5.model.Employee;
 

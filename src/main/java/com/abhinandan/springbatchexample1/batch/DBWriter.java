@@ -1,10 +1,11 @@
-package com.techprimers.springbatchexample1.batch;
+package com.abhinandan.springbatchexample1.batch;
 
-import com.techprimers.springbatchexample1.model.User;
-import com.techprimers.springbatchexample1.repository.UserRepository;
 import org.springframework.batch.item.ItemWriter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
+
+import com.abhinandan.springbatchexample1.model.User;
+import com.abhinandan.springbatchexample1.repository.UserRepository;
 
 import java.util.List;
 

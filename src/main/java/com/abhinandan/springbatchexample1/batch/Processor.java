@@ -1,8 +1,9 @@
-package com.techprimers.springbatchexample1.batch;
+package com.abhinandan.springbatchexample1.batch;
 
-import com.techprimers.springbatchexample1.model.User;
 import org.springframework.batch.item.ItemProcessor;
 import org.springframework.stereotype.Component;
+
+import com.abhinandan.springbatchexample1.model.User;
 
 import java.util.Date;
 import java.util.HashMap;
